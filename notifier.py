@@ -203,6 +203,7 @@ def main():
 
                 base_sleep = 1
                 total_sleep = base_sleep + random.uniform(MIN_DELAY, MAX_DELAY)
+                print("Sleeping for {} seconds".format(total_sleep))
                 sleep(total_sleep)
 
 
