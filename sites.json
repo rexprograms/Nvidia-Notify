@@ -82,9 +82,9 @@
   },
   {
     "url": "https://www.newegg.com/evga-geforce-rtx-3080-10g-p5-3883-kr/p/N82E16814487521?Description=rtx%203080&cm_re=rtx_3080-_-14-487-521-_-Product",
-    "keyword": "cart.svg",
+    "keyword": "Add to cart",
     "alert": true,
-    "method": "GET_SELENIUM",
+    "method": "GET_URLLIB",
     "name": "Newegg MSI XC3",
     "enabled": true
   },
@@ -98,33 +98,33 @@
   },
   {
     "url": "https://www.newegg.com/msi-geforce-rtx-3080-rtx-3080-ventus-3x-10g-oc/p/N82E16814137598?Description=rtx%203080&cm_re=rtx_3080-_-14-137-598-_-Product",
-    "keyword": "cart.svg",
+    "keyword": "Add to cart",
     "alert": true,
-    "method": "GET_SELENIUM",
+    "method": "GET_URLLIB",
     "name": "Newegg MSI Ventus",
     "enabled": true
   },
   {
     "url": "https://www.newegg.com/evga-geforce-rtx-3080-10g-p5-3881-kr/p/N82E16814487522?Description=rtx%203080&cm_re=rtx_3080-_-14-487-522-_-Product",
-    "keyword": "cart.svg",
+    "keyword": "Add to cart",
     "alert": true,
-    "method": "GET_SELENIUM",
+    "method": "GET_URLLIB",
     "name": "Newegg EVGA XC3",
     "enabled": true
   },
   {
     "url": "https://www.newegg.com/msi-geforce-rtx-3080-rtx-3080-ventus-3x-10g/p/N82E16814137600?Description=rtx%203080&cm_re=rtx_3080-_-14-137-600-_-Product",
-    "keyword": "cart.svg",
+    "keyword": "Add to cart",
     "alert": true,
-    "method": "GET_SELENIUM",
+    "method": "GET_URLLIB",
     "name": "Newegg MSI Ventus $699",
     "enabled": true
   },
   {
     "url": "https://www.newegg.com/evga-geforce-rtx-3080-10g-p5-3895-kr/p/N82E16814487519?Description=rtx%203080&cm_re=rtx_3080-_-14-487-519-_-Product",
-    "keyword": "cart.svg",
+    "keyword": "Add to cart",
     "alert": true,
-    "method": "GET_SELENIUM",
+    "method": "GET_URLLIB",
     "name": "Newegg EVGA FTW3 $789",
     "enabled": true
   },
