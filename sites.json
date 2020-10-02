@@ -6,7 +6,7 @@
     "alert": false,
     "method": "GET_API",
     "name": "Nvidia 3080",
-    "enabled": true
+    "enabled": false
   },
   {
     "url": "https://www.newegg.com/p/pl?d=rtx+3080&N=50001402%2050001314%2050001312%2050001315",
