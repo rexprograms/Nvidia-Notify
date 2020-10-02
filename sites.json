@@ -81,6 +81,14 @@
     "enabled": true
   },
   {
+    "url": "https://www.newegg.com/p/pl?d=rtx+3080&N=50001402%2050001314%2050001312%2050001315",
+    "keyword": "Add to cart",
+    "alert": true,
+    "method": "GET_URLLIB",
+    "name": "Newegg 3080 List Check 2",
+    "enabled": true
+  },
+  {
     "url": "https://www.newegg.com/evga-geforce-rtx-3080-10g-p5-3883-kr/p/N82E16814487521?Description=rtx%203080&cm_re=rtx_3080-_-14-487-521-_-Product",
     "keyword": "Add to cart",
     "alert": true,
