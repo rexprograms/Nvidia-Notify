@@ -70,7 +70,7 @@
     "alert": true,
     "method": "GET_URLLIB",
     "name": "Newegg Gigabyte Eagle",
-    "enabled": true
+    "enabled": false
   },
   {
     "url": "https://www.newegg.com/gigabyte-geforce-rtx-3080-gv-n3080eagle-oc-10gd/p/N82E16814932330?Description=rtx%203080&cm_re=rtx_3080-_-14-932-330-_-Product",
@@ -78,7 +78,7 @@
     "alert": true,
     "method": "GET_URLLIB",
     "name": "Newegg Gigabyte Eagle",
-    "enabled": true
+    "enabled": false
   },
   {
     "url": "https://www.newegg.com/evga-geforce-rtx-3080-10g-p5-3883-kr/p/N82E16814487521?Description=rtx%203080&cm_re=rtx_3080-_-14-487-521-_-Product",
@@ -86,7 +86,7 @@
     "alert": true,
     "method": "GET_URLLIB",
     "name": "Newegg MSI XC3",
-    "enabled": true
+    "enabled": false
   },
   {
     "url": "https://www.amazon.com/stores/page/6B204EA4-AAAC-4776-82B1-D7C3BD9DDC82?ingress=0",
@@ -94,7 +94,7 @@
     "alert": true,
     "method": "GET_URLLIB",
     "name": "Amazon 3080",
-    "enabled": true
+    "enabled": false
   },
   {
     "url": "https://www.newegg.com/msi-geforce-rtx-3080-rtx-3080-ventus-3x-10g-oc/p/N82E16814137598?Description=rtx%203080&cm_re=rtx_3080-_-14-137-598-_-Product",
@@ -102,7 +102,7 @@
     "alert": true,
     "method": "GET_URLLIB",
     "name": "Newegg MSI Ventus",
-    "enabled": true
+    "enabled": false
   },
   {
     "url": "https://www.newegg.com/evga-geforce-rtx-3080-10g-p5-3881-kr/p/N82E16814487522?Description=rtx%203080&cm_re=rtx_3080-_-14-487-522-_-Product",
@@ -110,7 +110,7 @@
     "alert": true,
     "method": "GET_URLLIB",
     "name": "Newegg EVGA XC3",
-    "enabled": true
+    "enabled": false
   },
   {
     "url": "https://www.newegg.com/msi-geforce-rtx-3080-rtx-3080-ventus-3x-10g/p/N82E16814137600?Description=rtx%203080&cm_re=rtx_3080-_-14-137-600-_-Product",
@@ -118,7 +118,7 @@
     "alert": true,
     "method": "GET_URLLIB",
     "name": "Newegg MSI Ventus $699",
-    "enabled": true
+    "enabled": false
   },
   {
     "url": "https://www.newegg.com/evga-geforce-rtx-3080-10g-p5-3895-kr/p/N82E16814487519?Description=rtx%203080&cm_re=rtx_3080-_-14-487-519-_-Product",
@@ -126,6 +126,6 @@
     "alert": true,
     "method": "GET_URLLIB",
     "name": "Newegg EVGA FTW3 $789",
-    "enabled": true
+    "enabled": false
   },
 ]
